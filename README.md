@@ -9,6 +9,9 @@ O os.system("") serve para habilitar as cores no terminal do Windows, garantindo
 
 
 
+
+
+
 ▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬   
 
 💥pip install💥
